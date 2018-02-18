@@ -1,6 +1,8 @@
 # Chaino 🔗
 Library to create chainable functions.
 
+![](https://api.travis-ci.org/adityavm/chaino.svg?branch=master)
+
 ## Installation
 ```shell
 npm install chaino --save-dev # npm
@@ -36,7 +38,7 @@ library.red.blue("abc") // red blue(abc)
 library.blue.yellow.red("abc") // blue,yellow red(abc)
 ```
 
-More examples available [here](/examples).  
+More examples available [here](/examples).
 Initial motivation [here](/motivation.md).
 
 # License
