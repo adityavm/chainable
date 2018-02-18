@@ -1,0 +1,22 @@
+{
+  "name": "chaino",
+  "version": "0.0.1",
+  "description": "Easily create chainable functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "chaining",
+    "partial",
+    "application",
+    "library",
+    "tools"
+  ],
+  "author": "Aditya Mukherjee",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^22.3.0"
+  }
+}
